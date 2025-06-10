@@ -1,0 +1,9 @@
+/* Style sheet */
+
+/* Styling descendants of the container class, in this case text descendant */
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
