@@ -6,3 +6,14 @@
     background-color: #F08080 ;
     font-family: "Verdana, DejaVu Sans", sans-serif;
 }
+
+#two {
+    color: #00BFFF;
+    font-size: 36px;
+}
+
+#four {
+    background-color: #7FFFD4;
+    font-size: 24px;
+    font-weight: bold;
+}
